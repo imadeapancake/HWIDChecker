@@ -29,9 +29,3 @@ Allows to check system's hardware and software components including HWID values.
 2. **HWID Information:** Access unique hardware identifiers for components such as the motherboard, disk drives, CPU, GPU, and network adapters.
 3. **Real-time Monitoring:** The tool runs a background thread to monitor for any hardware changes and alerts the user when changes are detected.
 4. **Refresh Button:** Manually refresh the displayed information to ensure it is up-to-date.
-
-This tool is ideal for users who need to keep track of their system's hardware configuration and detect any unauthorized changes to the system's hardware components.
-
----
-
-Feel free to adjust the description based on any additional features or details specific to your implementation.
