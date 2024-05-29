@@ -1,4 +1,4 @@
-﻿## HWIDChecker
+﻿# HWIDChecker
 
 ![test](https://github.com/imadeapancake/HWIDChecker/assets/104873442/0bfa67b9-a1e1-48c4-8127-7ae9fda0aba4)
 
@@ -22,10 +22,6 @@ Allows to check system's hardware and software components including HWID values.
   - Alerts the user with a warning message if any hardware changes are detected.
   - Provides detailed information about the old and new hardware configurations when changes occur.
 
-- **User-friendly Interface:**
-  - Uses `ttkbootstrap` for a modern, stylish interface with themes.
-  - Organized information display using `ttk.Notebook` with tabs for "System Info" and "HWID Info".
-  - Provides a "Refresh" button to manually update the displayed information.
 
 #### Usage:
 
